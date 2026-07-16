@@ -1,4 +1,4 @@
-# ⚔️ Chinese History? Stories, Retold for International School Kids
+# ⚔️ Chinese History(?) Stories, Retold for International School Kids
 
 As a Chinese parent with a child studying at an international school, I often
 worry that she might miss out on our cultural heritage — the character, the
