@@ -1,5 +1,14 @@
-# ⚔️ Three Kingdoms Adventures 三國演義 · 春秋戰國
+# ⚔️ Chinese History? Stories, Retold for International School Kids
 
+As a Chinese parent with a child studying at an international school, I often
+worry that she might miss out on our cultural heritage — the character, the
+courage, and the wisdom found in our famous stories. Growing up myself with
+these tales told and retold at home, in school, on TV, I couldn't imagine a
+childhood without them. So I built this website, with the help of AI, to bring
+the stories that once inspired me back to life for her — in the language she
+reads best, in a way that feels like hers.
+
+**What is it, essentially?**
 A kid-friendly storybook website of famous tales from Chinese history and
 literature — written in English for young readers (ages ~8–12) growing up
 outside the Chinese-language school system, so they can discover Chinese
@@ -7,10 +16,7 @@ history and culture in a fun way.
 
 Built for a 9-year-old in Hong Kong. Enjoyed (we suspect) by her parents too.
 
-**Live site:** enable GitHub Pages on this repo (Settings → Pages → deploy from
-`main` branch, root folder) and the site is served at
-`https://<username>.github.io/<repo-name>/`. No build step — it's pure static
-HTML/CSS/JS and also works fully offline by just opening `index.html`.
+
 
 ---
 
