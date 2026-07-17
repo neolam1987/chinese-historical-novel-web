@@ -77,7 +77,7 @@ More stories are teased as "coming soon" cards on the home page
 
 - **Locally:** double-click `index.html`. That's it — no server, no build,
   works offline.
-- **GitHub Pages:** push to GitHub, enable Pages, done.
+- **GitHub Pages:** [push to GitHub, enable Pages, done.](https://neolam1987.github.io/chinese-historical-novel-web/)
 
 ## ➕ Add a story
 
