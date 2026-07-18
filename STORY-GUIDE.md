@@ -2,7 +2,7 @@
 
 > **Audience of this document:** any AI model (or human) asked to add a new story
 > to this site. Follow it exactly and your story will fit seamlessly.
-> Last updated: July 2026, when the site had 12 stories across 2 eras.
+> Last updated: July 2026, when the site had 19 stories across 2 eras.
 
 ---
 
@@ -33,7 +33,7 @@ romance of 3 kingdom/
 └── stories/                ← one self-contained HTML page per story
 ```
 
-Eras so far: **三國演義** (7 stories) and **春秋戰國** (5 stories). New eras
+Eras so far: **三國演義** (9 stories) and **春秋戰國** (10 stories). New eras
 (e.g. 西遊記, 水滸傳, 楚漢相爭, 唐朝) get their own index section — copy the
 existing era-section pattern: `<h2>` header + `.newsflash` era-intro box +
 `.cards` grid.
@@ -65,6 +65,26 @@ existing era-section pattern: `<h2>` header + `.newsflash` era-intro box +
    named but not dwelt on, and always shown to backfire on the villain.
 8. **Cross-link** related stories on the site with `<a href="...">` when natural
    (e.g. Silk Pouches ↔ Zhou Yu, Empty Fort ↔ 36 Stratagems mentions).
+9. **Words to Learn (vocab):** every story teaches **6–8 everyday Chinese words**
+   suitable for a 9–10 year old. Two parts, both required:
+   - **Inline:** at a natural moment in the story, follow the English word with
+     the traditional characters in brackets, same style as names — e.g.
+     "it was a trap (陷阱)", "his patience (耐心)". First occurrence only;
+     don't gloss the same word twice.
+   - **Recap box:** a `.vocab` box placed AFTER `.footnotes` and BEFORE
+     `<div id="quiz">`, using this structure:
+     ```html
+     <div class="vocab">
+       <h2>🀄 Words to Learn 學一學</h2>
+       <div class="vocab-grid">
+         <div class="vword"><b>陷阱</b> <span class="py">xiànjǐng</span><br>trap — one-line meaning with a playful story callback</div>
+         ...
+       </div>
+     </div>
+     ```
+   Pick words that are (a) useful in daily life, (b) central to the story's
+   drama, and (c) mostly new across the site — light repetition of key words
+   (e.g. 耐心, 嫉妒) across stories is fine for reinforcement.
 
 ---
 
@@ -87,11 +107,18 @@ already on the site. Used so far:
 | 圍魏救趙 | Strategy-game replay commentary |
 | 完璧歸趙·負荊請罪 | Stage play in two acts, with stage directions |
 | 馮諼買義 | The grumpy household accountant's expense report |
+| 雞鳴狗盜 | Narrated by the great gate of Hangu Pass itself |
+| 曹沖稱象 | Narrated by the elephant |
+| 三顧茅廬 | Told by Zhuge Liang's little door boy (書僮) |
+| 曹劌論戰 | Narrated by the great war drum of Lu |
+| 減灶之戰 | A travelling detective reconstructs the case from clues |
+| 鄒忌諷齊王納諫 | Narrated by Zou Ji's bronze mirror |
+| 鷸蚌相爭 | Riverbank nature documentary (that turns out to be a court "screening") |
 
 Ideas still unused: a letter exchange between two characters; a courtroom trial
 of the loser; the horse's/weapon's point of view; a cooking-show frame; a
-detective reconstructing events; a museum tour guide; interview with the
-survivors 50 years later; a weather forecast; the city wall itself narrating.
+museum tour guide; interview with the survivors 50 years later; a weather
+forecast; a recipe book; a board-game rulebook.
 
 **Pick the device that amplifies the story's core emotion** (doctor's notes fit
 Zhou Yu's rage; a diary fits Goujian's long patience). Sustain the device from

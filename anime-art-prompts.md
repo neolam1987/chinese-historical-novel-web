@@ -333,3 +333,148 @@ finished from this one section.)
 | `feng-hero.png` | 戰國 Story 5 card + story banner (馮諼買義) |
 
 All 12 files go in: **`images\anime\`** — refresh the home page and they appear (the 7 Three-Kingdoms cards replace the classical paintings automatically). 🎉
+
+---
+---
+
+# 🎨 BATCH 4 — Seven More Stories (July 2026)
+
+Covers the seven newest pages: 雞鳴狗盜, 曹沖稱象, 三顧茅廬, 曹劌論戰, 減灶之戰,
+鄒忌諷齊王納諫, 鷸蚌相爭. Same workflow: one story per chat, follow-ups start with
+*"Same characters and same art style as the previous image."*
+A ready-to-import CSV of every prompt below is in **`batch4-prompts.csv`** (repo root)
+for batch generation tools.
+
+---
+
+## 戰國 Story 6 — The Rooster Crow and the Dog Thief 雞鳴狗盜 (page: rooster.html)
+
+### `rooster-hero.png` — Midnight at the great gate (page banner + card)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, ancient Chinese Warring States setting, kid-friendly, no text, landscape 16:9. Deep night in a narrow mountain pass: an ENORMOUS ancient wooden gate with iron studs — the gate of Hangu Pass — stands shut between torch-lit stone walls, under a sky full of stars. Before it wait travellers' carriages, and on top of one cart a scruffy SCRAWNY MAN with spiky hair and patched clothes flaps his elbows mid-rooster-crow, cheeks puffed, while confused sleepy gatekeepers peer down from the wall with lanterns. Comic tension, moonlight and torch glow.
+
+### `rooster-1.png` — The politest prison in China
+> Same characters and same art style as before. Cute anime watercolor storybook, no text, landscape 16:9. A luxurious Qin guest residence: LORD MENGCHANG — an elegant, generous-faced noble in fine layered robes — sits at a table laden with delicious food, but gazes wistfully through a window barred with decorative lattice, chin on hand. Outside the door, armored guards stand "politely." Around him, several worried travelling guests whisper. In the background of the room, the KING OF QIN's advisors are visible through a doorway whispering to a huge imposing KING in black-and-gold robes with a jeweled crown. Gilded-cage mood, gentle humor.
+
+### `rooster-2.png` — The dog-door burglar
+> Same characters and same art style. Cute anime watercolor storybook, no text, no scary elements, landscape 16:9. Moonlit palace treasury: a SMALL WIRY CHEERFUL MAN dressed in a dog-fur hood and scruffy brown clothes slips out through a small square dog-door at the base of a great wall, hugging a folded MOON-WHITE FUR COAT that glows softly like snow. Behind the wall, treasury guards snooze upright beside racks of treasure. A crescent moon, a sleeping real dog beside the door with a "zzz" bubble mood (no letters). Sneaky, funny, storybook-charming.
+
+### `rooster-3.png` — Three hundred confused roosters
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. The great gate of Hangu Pass swinging OPEN at night: carriages with LORD MENGCHANG and his guests race through the gap, horses at full gallop, while the SCRAWNY ROOSTER-MAN on the lead cart takes a proud bow. Everywhere in the dark valley, roosters of every colour crow furiously from fences, rooftops and baskets, sound-ripples spreading. The sleepy gatekeepers scratch their heads at the still-dark, star-filled sky. In the far distance behind, tiny pursuing riders' torches — comically too late. Triumphant, funny, full of motion.
+
+---
+
+## Story 8 — Weighing the Elephant 曹沖稱象 (page: elephant.html)
+
+### `elephant-hero.png` — The famous boat ride (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, ancient Chinese Three Kingdoms setting, kid-friendly, no text, landscape 16:9. A wide calm river at midday: a GENTLE GIANT GREY ELEPHANT with big kind anime eyes stands proudly on a large wooden cargo boat, which sits low in the water. At the boat's side, CAO CHONG — a small six-year-old boy with a round face, bright curious eyes, small topknot and blue-green child robes — leans over to scratch a mark at the waterline. On the bank, an astonished crowd of bearded ministers and soldiers watch, and CAO CAO — an imposing warlord with narrow sharp eyes, long black beard, black-and-gold armor and dark red cape — beams with fatherly pride. Sunny, joyful, storybook-clear.
+
+### `elephant-1.png` — The north meets its first elephant
+> Same characters and same art style as before. Cute anime watercolor storybook, no text, landscape 16:9. A palace courtyard: the GENTLE GIANT ELEPHANT arrives walking tall and pleased with itself, ears like sails, while a huge crowd reacts comically — children pointing in delight, soldiers gaping, one dog mid-flee, a grandmother dropping her basket of buns. CAO CAO (black-and-gold armor, long beard) circles the elephant stroking his beard with sparkling curious eyes. Festive, funny, wonder-filled.
+
+### `elephant-2.png` — The smallest head in the room
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. A grand hall: a row of TALL ELDERLY MINISTERS with magnificent beards all frozen mid-argument, mouths open like fish, while at knee-height little CAO CHONG (round face, topknot, blue-green robes) stands confidently pointing toward the river, explaining his idea with shining eyes. CAO CAO leans forward on his seat, delighted, chin on fist. Through the doorway behind them, the elephant peeks in one big kind eye. Warm comedy, the small boy clearly the hero of the frame.
+
+### `elephant-3.png` — One elephant = one boatload of stones
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. Riverside scene: the boat now WITHOUT the elephant, being loaded by a cheerful chain of workers passing baskets of stones hand to hand; the hull sinks toward a scratched mark at the waterline as little CAO CHONG directs like a tiny conductor, one hand raised. On the bank, the ELEPHANT happily munches an entire leafy tree branch while ministers weigh stones basket by basket on a beam scale, counting on their fingers. Golden afternoon light, busy and joyful.
+
+### `card-elephant.png` — Home-page card 曹沖稱象
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9, poster composition. A gentle giant grey elephant with big kind anime eyes stands on a wooden boat on a sunny river; a small six-year-old boy with a topknot and blue-green robes leans over the side, scratching a bright mark at the waterline. Ripples circle outward; astonished bearded ministers crowd the distant bank. Simple, iconic, sunlit — a picture that says "big problem, small genius."
+
+---
+
+## Story 9 — Three Visits to the Thatched Cottage 三顧茅廬 (page: cottage.html)
+
+### `cottage-hero.png` — The knock in the snow (page banner)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, ancient Chinese Three Kingdoms countryside setting, kid-friendly, no text, landscape 16:9. A cozy thatched cottage in a snowy bamboo valley: LIU BEI — a kind-faced lord with a small beard in green-gold robes, snowflakes on his shoulders and eyebrows — bows politely at the wooden door, which is opened a crack by a SMALL BOY with twin hair-buns and a simple grey robe. Behind Liu Bei wait two figures with horses: GUAN YU, tall and dignified with a red-toned face and a magnificent long black beard in green robes, and ZHANG FEI, a huge burly warrior with a wild bristling black beard puffing an impatient cloud of steam-breath. Falling snow, warm lamplight from the cottage window. Gentle, wintry, full of heart.
+
+### `cottage-1.png` — Second visit, boiling brother
+> Same characters and same art style as before. Cute anime watercolor storybook, no text, landscape 16:9. The same cottage door in a heavy snowstorm: LIU BEI (green-gold robes, frost on eyebrows) bows to the SMALL BOY at the door who spreads his hands apologetically — master out again! Behind, ZHANG FEI (wild black beard) erupts like a kettle, steam pouring from his ears, while calm GUAN YU (long beard, green robe) holds him back with one hand and holds the horses with the other. Snow piling on everyone's hats. Comic despair against beautiful white silence.
+
+### `cottage-2.png` — The most important nap in Chinese history
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. Split view of the cottage in spring: inside, young ZHUGE LIANG — gentle scholar with a topknot, silk scarf headband, wispy beard, teal-green robe — naps blissfully on a couch, a book open on his chest. Outside in the blossoming courtyard, LIU BEI stands perfectly still and respectful, hands folded, plum petals landing on his shoulders; behind the fence GUAN YU restrains a purple-faced ZHANG FEI who is being physically prevented from shouting. The SMALL BOY peeks between them all with a finger to his lips: shhh. Peaceful, funny, springtime colors.
+
+### `cottage-3.png` — One map, the future in three pieces
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. Inside the lamplit cottage at dusk: ZHUGE LIANG (teal robe, feather fan now in hand) stands beside a large unrolled map on the table, gesturing gracefully as glowing soft lights divide the map into THREE gentle colored regions. LIU BEI leans forward, eyes shining with hope, tea forgotten. The SMALL BOY refills cups in the corner, eavesdropping shamelessly with huge curious eyes. Warm lamplight, the feeling of history beginning in a farmhouse.
+
+### `card-cottage.png` — Home-page card 三顧茅廬
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, landscape 16:9, poster composition. A snowy bamboo valley at dusk: a small warm-windowed thatched cottage, and on the path before it a kind-faced lord in green-gold robes bowing patiently at the door, snow gathering on his back, while two warriors — one tall with a magnificent long beard, one huge and bristling — wait behind with horses. Warm light through falling snow: an image that says "sincerity knocks three times."
+
+---
+
+## 春秋 Story 7 — The Third Drumbeat 曹劌論戰 (page: caogui.html)
+
+### `drum-hero.png` — The great drum at dawn (page banner + card)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, ancient Chinese Spring-and-Autumn setting, kid-friendly, no text, landscape 16:9. Dawn over a wide green battlefield: in the foreground on a wooden command chariot stands a MAGNIFICENT GREAT WAR DRUM — round, battle-red, studded with gold, almost glowing with personality — drumsticks resting on its rim. Beside it stand CAO GUI, a plain sturdy man in simple brown-grey commoner robes with calm intelligent eyes, and the DUKE OF LU, a mild middle-aged ruler in ceremonial robes, hand hovering eagerly near the drumsticks. Across the misty field, a huge enemy army's banners. The drum is clearly the star of the picture.
+
+### `drum-1.png` — The best job interview ever
+> Same characters and same art style as before. Cute anime watercolor storybook, no text, landscape 16:9. A palace hall in Lu: plain-robed CAO GUI stands calm and upright before the DUKE OF LU, holding up three fingers mid-question, while a row of well-fed nobles in rich robes ("the meat-eaters") look scandalized that a commoner is speaking. The Duke leans forward thoughtfully, one honest hand on his chest. Simple hall, morning light, David-before-Goliath energy without any giants.
+
+### `drum-2.png` — One beat, one charge
+> Same characters and same art style. Cute anime watercolor storybook, kid-friendly, no blood, no text, landscape 16:9. The battlefield moment: CAO GUI mid-strike on the GREAT RED DRUM, a single enormous visible sound-ring rippling out across the field; below, the fresh line of Lu soldiers surges forward like a wave full of energy, while the distant enemy soldiers wobble on exhausted jelly-legs, spears drooping, one sitting down to catch his breath. Motion lines, spraying dew, morning sun — pure released energy, nobody hurt.
+
+### `drum-3.png` — Check the wheel tracks
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. After the battle: CAO GUI kneels in churned mud, peering closely at chaotic wagon wheel-tracks that wobble and cross like scribbles, while behind him the DUKE OF LU and eager soldiers lean forward on tiptoe, frozen mid-chase, waiting for permission. In the distance, the fleeing enemy's banners topple comically as they run. On the chariot, the great red drum watches over everything. Detective-moment mood, gentle humor.
+
+---
+
+## 戰國 Story 8 — The Case of the Disappearing Stoves 減灶之戰 (page: maling.html)
+
+### `maling-hero.png` — The road testifies (page banner + card)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, ancient Chinese Warring States setting, kid-friendly, no text, landscape 16:9. Twilight on a long empty road: a DETECTIVE figure — a robed scholar with a wide-brimmed travelling hat — crouches with a glowing lantern over a field of abandoned earthen army cooking-stoves, rows of small blackened fire-pits stretching into the distance. Wisps of old smoke, a magnifying-lens gleam in his eye, footprints and wheel-ruts in the dust. Moody blues and lantern gold, mystery-story atmosphere, inviting not scary.
+
+### `maling-1.png` — The stoves are lying
+> Same art style. Cute anime watercolor storybook, no text, landscape 16:9. Morning camp site: scouts of Wei count rows of earthen cooking stoves on their fingers with puzzled faces, while their general PANG JUAN — proud, in dark green-and-black armor with a pointed beard — throws his head back in a huge triumphant laugh, pointing at the shrinking rows. Ghostly faint outlines suggest how many stoves stood the day before. His tired officers exchange doubtful glances behind his back. Dusty golds, comic overconfidence.
+
+### `maling-2.png` — Strategy is timetabling
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. A darkening narrow gorge, cliffs and thick trees on both sides: SUN BIN — a serene sharp-eyed scholar with a short beard and grey-blue robes, in a wooden wheeled chair — calmly points at the sky where a faint dotted arc traces the sun's path to dusk, like a timetable only he can see. All through the trees on the slopes, friendly Qi crossbow soldiers tuck themselves behind trunks and rocks, one sharing rice balls. TIAN JI, big hearty general in bronze armor, gives a thumbs-up from the ridge. Calm before the checkmate, cozy conspiratorial mood.
+
+### `maling-3.png` — The message with a built-in lamp
+> Same characters and same art style. Cute anime watercolor storybook, kid-friendly, no blood, no violence shown, no text, landscape 16:9. Night in the gorge: PANG JUAN (dark green-black armor) holds up a torch to a great tree whose bark has been stripped into a pale writing-panel that glows in the flame light (the writing itself is a soft indistinct glow — no readable characters). His face, lit from below, shifts from smug to wide-eyed realization. All around in the darkness, dozens of pairs of gentle watching eyes and the tips of crossbows glint among the leaves like fireflies about to answer. Suspense played storybook-safe: the moment BEFORE, forever.
+
+---
+
+## 戰國 Story 9 — The Mirror and the Minister 鄒忌諷齊王納諫 (page: zouji.html)
+
+### `zouji-hero.png` — The honest bronze (page banner + card)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, ancient Chinese Warring States setting, kid-friendly, no text, landscape 16:9. A elegant dressing room at morning: ZOU JI — a tall handsome minister with a neat black beard, fine blue-purple layered robes and a tall official's hat — studies himself in a beautiful ROUND BRONZE MIRROR on a carved wooden stand; the mirror softly glows, almost like a wise face, reflecting him truthfully. Morning light, silk screens, a comb and cap-stand nearby. Calm, handsome, a whisper of comedy in his slightly-too-pleased expression.
+
+### `zouji-1.png` — Three judges, zero honest votes
+> Same characters and same art style as before. Cute anime watercolor storybook, no text, landscape 16:9. The dressing room: ZOU JI gestures grandly at himself while THREE people around him applaud with sparkling exaggerated admiration — his WIFE in warm rose robes with hearts-in-eyes energy, his CONCUBINE in pale robes clapping nervously with a bead of sweat, and a GUEST in traveling clothes applauding hardest of all while eyeing a money pouch on the table. In the bronze mirror's reflection, and only there, stands the plain truth: a dazzlingly HANDSOME LORD XU silhouette outshining them all. Layered visual joke, bright and funny.
+
+### `zouji-2.png` — The boldest compliment ever
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. The throne hall of Qi: ZOU JI (blue-purple robes, official's hat) tells his story with theatrical charm before KING WEI OF QI — a sturdy king in red-gold robes leaning forward on his throne, mid-laugh, one eyebrow rising as understanding dawns. Around the hall, a crowd of courtiers frozen mid-flattery, fans and smiles stuck in place, sweating slightly. Above the king's head, a faint thought-bubble mood shows a tiny foggy mirror. Warm golds, delicious court comedy.
+
+### `zouji-3.png` — The queue to scold the king
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. Outside the palace gates in cheerful sunshine: a LONG happy queue of ordinary people — farmers, aunties, a fisherman with his basket, a scholar, a kid on a grandfather's shoulders — each waiting their turn to complain to the KING, who sits at a table by the gate listening earnestly and handing out small reward pouches, scribes writing everything down. At the queue's end, one person scratches their head, unable to think of anything left to complain about. Festival-day colors, kingdom-fixing-itself joy.
+
+---
+
+## 戰國 Story 10 — The Snipe and the Clam 鷸蚌相爭 (page: clam.html)
+
+### `clam-hero.png` — Nature's silliest standoff (page banner + card)
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, riverbank nature setting in ancient China, kid-friendly, no text, landscape 16:9. A sunny river mudflat: an elegant brown-and-white SNIPE bird with a long slender beak stands with its beak clamped tight inside a large pearly freshwater CLAM, both with big stubborn cartoon eyes glaring at each other, tiny anger puffs above their heads. Behind them in the reeds, an old FISHERMAN in a straw hat tiptoes closer with a happy grin and an open basket. Morning mist, dragonflies, gentle comedy — the funniest hostage crisis in nature.
+
+### `clam-1.png` — Peck meets SNAP
+> Same characters and same art style as before. Cute anime watercolor storybook, no text, landscape 16:9. Close-up on the warm mud: the CLAM sunbathing blissfully open like a tiny beach-goer (a little relaxed sparkle), while the SNIPE mid-swoop descends from above, beak aimed, eyes locked on target like a delivery arriving. Ripples, reeds, one dramatic shadow. The instant before the world's most famous SNAP — comic anticipation.
+
+### `clam-2.png` — Winner of the day: the basket
+> Same characters and same art style. Cute anime watercolor storybook, no text, landscape 16:9. The FISHERMAN (straw hat, patched clothes, delighted grandpa smile) lifts the still-locked SNIPE-and-CLAM combo in both hands toward his basket; the bird and shellfish, STILL glaring at each other, finally notice him with tiny wide eyes — twin lightbulb-too-late expressions. His little boat waits in the reeds. Golden light, big gentle laugh of a scene.
+
+### `clam-3.png` — The documentary premiere that cancelled a war
+> Same art style. Cute anime watercolor storybook, no text, landscape 16:9. A Warring States throne room: SU DAI — a quick-eyed travelling persuader in simple scholar robes — gestures like a master storyteller before KING HUI OF ZHAO, a young king in dark red robes leaning off his throne, chin on hand, completely absorbed. Above between them floats a glowing story-cloud showing the tiny snipe, clam and fisherman scene. By the door, generals holding invasion maps quietly roll them back up. Lantern light, the power of a good story made visible.
+
+---
+
+## Batch 4 checklist
+
+| File | Where it appears |
+|------|------------------|
+| `rooster-hero.png`, `rooster-1..3.png` | rooster.html (雞鳴狗盜) — hero doubles as home card |
+| `elephant-hero.png`, `elephant-1..3.png`, `card-elephant.png` | elephant.html (曹沖稱象) + home card |
+| `cottage-hero.png`, `cottage-1..3.png`, `card-cottage.png` | cottage.html (三顧茅廬) + home card |
+| `drum-hero.png`, `drum-1..3.png` | caogui.html (曹劌論戰) — hero doubles as home card |
+| `maling-hero.png`, `maling-1..3.png` | maling.html (減灶之戰) — hero doubles as home card |
+| `zouji-hero.png`, `zouji-1..3.png` | zouji.html (鄒忌諷齊王納諫) — hero doubles as home card |
+| `clam-hero.png`, `clam-1..3.png` | clam.html (鷸蚌相爭) — hero doubles as home card |
+
+All 30 files go in: **`images\anime\`** — refresh and they appear. 🎉
