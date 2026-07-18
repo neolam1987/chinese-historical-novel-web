@@ -478,3 +478,84 @@ for batch generation tools.
 | `clam-hero.png`, `clam-1..3.png` | clam.html (鷸蚌相爭) — hero doubles as home card |
 
 All 30 files go in: **`images\anime\`** — refresh and they appear. 🎉
+
+---
+---
+
+# 🎨 BATCH 5 — Hero Portraits for the Home Page Gallery
+
+The redesigned home page has a "Meet the Heroes" gallery. Six Three-Kingdoms
+heroes already use classical paintings; these 8 NEW portrait slots hide
+automatically until you generate them. **Portrait orientation 3:4** (not
+landscape!) — they display as small vertical portrait cards.
+CSV for batch tools: **`hero-portraits-prompts.csv`** (repo root).
+
+**Shared style string for every portrait:** *"Cute Japanese anime style
+children's storybook character portrait, Studio Ghibli inspired, soft
+watercolor, big expressive eyes, bust/half-body portrait on a simple warm
+parchment background, kid-friendly, no text, portrait 3:4."*
+
+### `portrait-guanyu.png` — Guan Yu 關羽
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. GUAN YU: a tall dignified general with a warm red-toned face, calm noble eyes, and a MAGNIFICENT long flowing black beard, wearing green-and-gold robes over armor, holding his famous long curved-blade polearm upright beside him. Serious but kind, statuesque, loyal-hearted aura.
+
+### `portrait-zhangfei.png` — Zhang Fei 張飛
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. ZHANG FEI: a huge burly warrior with a wild bristling black beard, big round fierce-but-friendly eyes, dark leather armor, mouth open in a mighty good-natured ROAR with visible sound ripples, one fist raised. Loud, funny, lovable — a thunderstorm with a heart of gold.
+
+### `portrait-kingzhuang.png` — King Zhuang of Chu 楚莊王
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. KING ZHUANG OF CHU: a young king with a small neat beard and clever half-lidded eyes hiding sharp intelligence, in loose red-and-gold royal robes, holding a wine cup — while a tiny magnificent five-colored bird perches on his shoulder. A knowing little smile: is he lazy, or watching everything?
+
+### `portrait-goujian.png` — Goujian 勾踐
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. KING GOUJIAN: a lean weathered king with tied-back black hair and quietly burning determined eyes, in simple rough hemp robes, a small dark gall bladder hanging on a string beside his face; behind him a hint of stacked firewood. Solemn, patient, unbreakable — dignity in plain clothes.
+
+### `portrait-sunbin.png` — Sun Bin 孫臏
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, half-body portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. SUN BIN: a serene sharp-eyed scholar with a short beard and simple grey-blue robes, seated in his wooden wheeled chair, holding a small carved chess-like army piece up to the viewer with a knowing half-smile. A rolled map on his lap. The calmest, most dangerous mind in the Warring States.
+
+### `portrait-linxiangru.png` — Lin Xiangru 藺相如
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. LIN XIANGRU: a young slender official with intelligent fearless eyes, plain dark blue scholar robes and a small topknot, cradling a glowing round white jade disc (with a hole in the center) protectively at his chest, chin raised with quiet courage. Elegant, brave, unshakeable.
+
+### `portrait-lianpo.png` — Lian Po 廉頗
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. LIAN PO: a mighty old general with a magnificent white-streaked beard, kind battle-worn face and scarred bronze armor, carrying a small bundle of thorn branches over one bare shoulder, with a humble, warm, apologetic smile. Strength and humility in one portrait.
+
+### `portrait-mengchang.png` — Lord Mengchang 孟嘗君 ⚠️ REGENERATE (v1.0.3 fix)
+> ⚠️ The first generation came out looking like Guan Yu (red face, armor, giant beard) because it was made in the same chat as the Guan Yu portrait and the model carried the character over. **Generate this one in a brand-new chat**, with this corrected prompt:
+>
+> Cute Japanese anime style children's storybook character portrait, Studio Ghibli inspired, soft watercolor, big expressive eyes, bust portrait on a simple warm parchment background, kid-friendly, no text, portrait 3:4. LORD MENGCHANG, a CIVILIAN nobleman and famous host of the Warring States era — NOT a warrior: pale refined face (not red), slender build, a short neat well-groomed black beard (not long or bushy), gentle laughing eyes, wearing flowing scholar-noble SILK robes in cream and deep blue with wide elegant sleeves and a soft cloth scholar's cap (no armor, no helmet, no weapons anywhere). Arms slightly open in a warm welcoming host gesture, as if inviting guests to dinner. In the soft background: tiny silhouettes of his odd guests — a singer strumming a sword like a lute, a small dog-hooded figure, a man crowing like a rooster. Warm, generous, refined host energy.
+
+## Batch 5 checklist
+
+| File | Hero |
+|------|------|
+| `portrait-guanyu.png` | Guan Yu 關羽 |
+| `portrait-zhangfei.png` | Zhang Fei 張飛 |
+| `portrait-kingzhuang.png` | King Zhuang 楚莊王 |
+| `portrait-goujian.png` | Goujian 勾踐 |
+| `portrait-sunbin.png` | Sun Bin 孫臏 |
+| `portrait-linxiangru.png` | Lin Xiangru 藺相如 |
+| `portrait-lianpo.png` | Lian Po 廉頗 |
+| `portrait-mengchang.png` | Lord Mengchang 孟嘗君 |
+
+All 8 files go in: **`images\anime\`** — portrait 3:4, refresh, done. 🎉
+
+---
+---
+
+# 🎨 BATCH 6 — Era Section Banners (home page, v1.0.3)
+
+Two ultra-wide decorative banners that sit above each era section on the home
+page (both the English and Chinese versions). **Wide landscape — ask for 21:9
+(or 16:9 and crop)**; they display as a wide 160px-tall strip, so favour a
+horizontal panorama composition with interest spread left-to-right and nothing
+critical at the very top/bottom edges. Slots hide automatically until generated.
+CSV: **`v103-fixes-and-banners.csv`** (repo root) — includes these 2 plus the
+corrected Mengchang portrait.
+
+### `banner-sanguo.png` — Three Kingdoms era banner 三國
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no blood, no text, ultra-wide panoramic landscape 21:9, decorative frieze composition. A sweeping panorama of the Three Kingdoms era across a great misty river at golden hour: on the left, ZHUGE LIANG (topknot, silk scarf headband, teal-green robe, white feather fan) rides a small cart among green banners; in the center, wooden warships with red sails cross the wide river, straw-scarecrow boats bristling with arrows among them; on the right, ZHAO YUN in white-silver armor on a white horse and a great city gate with fluttering flags. Distant mountains, cranes flying, warm gold-and-red palette. Epic but friendly, like a storybook chapter divider.
+
+### `banner-chunqiu.png` — Spring & Autumn · Warring States era banner 春秋戰國
+> Cute Japanese anime style children's storybook illustration, Studio Ghibli inspired, soft watercolor, big expressive eyes, kid-friendly, no text, ultra-wide panoramic landscape 21:9, decorative frieze composition. A sweeping panorama of the Spring-and-Autumn and Warring States world at lantern-lit dusk: on the left, scholars in flowing robes debate under a great ginkgo tree beside bamboo scrolls; in the center, a bronze chariot with a great red war drum rolls past ancient walled towns and rice fields, a five-colored bird soaring overhead; on the right, a riverbank with a snipe and clam locked comically together near a fisherman's boat, and the great gate of a mountain pass glowing with torches. Teal, jade-green and lantern-gold palette. Wise, magical, storybook chapter-divider mood.
+
+| File | Where it appears |
+|------|------------------|
+| `banner-sanguo.png` | Home page, above the 三國 section (EN + 中文) |
+| `banner-chunqiu.png` | Home page, above the 春秋戰國 section (EN + 中文) |

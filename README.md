@@ -22,7 +22,8 @@ Built for a 9-year-old in Hong Kong. Enjoyed (we suspect) by her parents too.
 
 ## 📚 What's inside
 
-**12 illustrated stories across two eras**, each ~1,000–1,500 words with:
+**19 illustrated stories across two eras** (9 三國 + 10 春秋戰國), each
+~1,000–1,500 words. Every story has:
 
 - A **different storytelling device per story** — a newspaper report, a
   campfire tale, a spy dossier, a king's secret diary, a royal doctor's case
@@ -103,3 +104,48 @@ pages pick them up automatically, and hide the slots gracefully until then.
 
 Made with ❤️ in Hong Kong, for a young reader discovering 5,000 years of
 excellent stories.
+
+---
+
+## 📋 Version history
+
+**Current version: v1.0.3**
+
+### v1.0.3 — Era banners, portrait fix & polish (July 2026)
+- **Era banners**: AI-art banner slots above the 三國 and 春秋戰國 sections on
+  the home page (prompts in Batch 6; `v103-fixes-and-banners.csv`).
+- **Fix**: `portrait-mengchang.png` prompt rewritten — the first generation
+  came out as Guan Yu due to same-chat character bleed; regenerate in a fresh
+  chat with the corrected Batch 5 prompt.
+- **Polish**: removed the floating emoji from the home-page hero banner (they
+  overlapped the title).
+- A Traditional Chinese version (bilingual switcher + translated 三國 pages)
+  was trialled during this version and removed — the translation quality
+  didn't meet the bar. The site is English-only for now; Chinese appears as
+  inline characters, idioms and the Words-to-Learn boxes.
+- Version history added to this README; version number shown in the site footer.
+
+### v1.0.2 — Home page redesign + heroes gallery (July 2026)
+- Site retitled **"Amazing Tales from Chinese History 中華歷史故事"** with a
+  fancy gradient hero banner, floating emoji, stat chips and era jump-nav.
+- Two themed era sections (三國 red-gold / 春秋戰國 teal-blue) with emblems,
+  intros and story-count badges.
+- Heroes gallery expanded to 14 figures across both eras; every hero card now
+  links to the stories they appear in. 8 new anime portrait slots
+  (Batch 5, `hero-portraits-prompts.csv`).
+
+### v1.0.1 — Seven new stories + Words to Learn (July 2026)
+- **7 new stories** (12 → 19): 雞鳴狗盜, 曹沖稱象, 三顧茅廬, 曹劌論戰,
+  孫臏減灶·馬陵之戰, 鄒忌諷齊王納諫, 鷸蚌相爭 — each with a fresh narrative
+  device (talking gate, elephant narrator, door boy, war drum, detective,
+  bronze mirror, nature documentary).
+- **Words to Learn**: every story (old and new) teaches 6–8 everyday Chinese
+  words — inline like "trap (陷阱)" plus a recap box with pinyin before the quiz.
+- 30 new art prompts (Batch 4, `batch4-prompts.csv`); story chains, index
+  cards and STORY-GUIDE.md updated.
+
+### v1.0.0 — Original release
+- 12 illustrated stories across two eras (7 三國 + 5 春秋戰國), each with a
+  unique storytelling device, History Corner footnotes and a 5-question quiz.
+- Playful storybook design, anime art prompt pack, classical paintings from
+  Wikimedia Commons.
